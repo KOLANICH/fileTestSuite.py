@@ -1,0 +1,5 @@
+[submodule "testDataset"]
+	path = tests/testDataset
+	url = https://codeberg.org/fileTestSuite/tests.git
+	branch = master
+	shallow = true
